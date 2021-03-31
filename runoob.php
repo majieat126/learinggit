@@ -1,1 +1,3 @@
-sttsdfsdfsdf
+<?php
+echo '1';
+?>
